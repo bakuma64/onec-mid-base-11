@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="769f99b8-c0c2-4769-a701-c2f83e4f4fcd">
+  <name>БС_ПересчетСогласованнаяСкидкаКлиент</name>
+  <synonym>
+    <key>ru</key>
+    <value>Б с пересчет согласованная скидка клиент</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>
